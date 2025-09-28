@@ -11,7 +11,7 @@ Git & GitHub
 ### To Execute The Project
 Clone the repository:
 ```bash
-https://github.com/Farhana-Yeasmin4/PlaywrightProject.git
+git clone https://github.com/Farhana-Yeasmin4/PlaywrightProject.git
 ```
 
 Run Scripts:
